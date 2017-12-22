@@ -1,0 +1,23 @@
+{
+  "name": "markdownmemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp ",
+    "index": "start ./www/index.html",
+    "gulp": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.13.1",
+    "gulp": "^3.9.1",
+    "gulp-markdown": "^1.2.0",
+    "gulp-util": "^3.0.8",
+    "highlight.js": "^9.12.0",
+    "lightbox2": "^2.10.0",
+    "through2": "^2.0.3",
+    "transform": "^1.1.2"
+  }
+}
