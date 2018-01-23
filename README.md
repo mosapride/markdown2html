@@ -14,9 +14,17 @@ Markdownは楽だし自分用の資料を作るのに適しているなと思う
 
 ## install & run
 
+インストールとgulpの起動
+
 ```bash
 npm install
 npm start
+```
+
+index.htmlを表示する
+
+```bash
+npm run index
 ```
 
 ## カスタマイズした機能
